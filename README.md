@@ -7,14 +7,14 @@
  
  
 
- 1. Área Professores.
- 2. Área Estudantes.
- 3. Formulário para cadastro dos professores.
- 4. Formulário para cadastro dos estudantes.
- 5. View professor.
- 6. View estudante.
- 7. Edit.
- 8. Delete.
+ - Área Professores.
+ - Área Estudantes.
+ - Formulário para cadastro dos professores.
+ - Formulário para cadastro dos estudantes.
+ - View professor.
+ - View estudante.
+ - Edit.
+ - Delete.
  > Muita coisa ainda sera feita, atualizada, mudada ...
  > 
 **View Teacher**

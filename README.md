@@ -15,7 +15,7 @@
  - View estudante.
  - Edit.
  - Delete.
- > Muita coisa ainda sera feita, atualizada, mudada ...
+ > Muita coisa ainda será feita, atualizada, mudada ...
  > 
 **View Teacher**
 ![viewTeacher](https://user-images.githubusercontent.com/65264902/100527772-6a2adb80-31b4-11eb-8ae2-19b4275bb81b.png)

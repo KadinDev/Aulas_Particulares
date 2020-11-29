@@ -1,4 +1,4 @@
-## Site de Aulas Partiulares
+## Site de Aulas Particulares
 > Inicio do desafio ( Criar um site de aulas particulares )
 
  **Área de Estudantes**
